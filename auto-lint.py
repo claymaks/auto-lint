@@ -5,6 +5,16 @@ Use:
     - "python3 auto-lint.py":
 
 """
+
+__author__ = "Clayton Maksymiuk"
+__copyright__ = ""
+__credits__ = ["Clayton Maksymiuk"]
+__license__ = ""
+__version__ = "1.0.0"
+__maintainer__ = "Clayton Maksymiuk"
+__email__ = ["clayton.maksymiuk@fishrco.com, cmaks@umich.edu"]
+__status__ = "Developement"
+
 import os
 import subprocess
 
